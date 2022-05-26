@@ -1,1 +1,1 @@
-# Uno game (whit IA)
+# Uno game PYTHON (console game - whit IA)
